@@ -3,6 +3,7 @@
 @prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
 @prefix owl: <http://www.w3.org/2002/07/owl#> .
 @prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+@prefix wdata: <http://www.wikidata.org/wiki/Special:EntityData/> .
 
 <urn:mdciii:1603:16()>
     a skos:ConceptScheme ;
@@ -25,55 +26,66 @@
 <urn:mdciii:1603:16:60:2:11>
     a owl:Thing, skos:Concept ;
     rdfs:label "1603:16:60:2:11" ;
-    skos:prefLabel "Devonshire"@eng-Latn .
+    skos:prefLabel "Devonshire"@eng-Latn ;
+    wdata:q7200235 "BM011" .
 
 <urn:mdciii:1603:16:60:2:21>
     a owl:Thing, skos:Concept ;
     rdfs:label "1603:16:60:2:21" ;
-    skos:prefLabel "Hamilton"@eng-Latn .
+    skos:prefLabel "Hamilton"@eng-Latn ;
+    wdata:q7200235 "BM021" .
 
 <urn:mdciii:1603:16:60:2:31>
     a owl:Thing, skos:Concept ;
     rdfs:label "1603:16:60:2:31" ;
-    skos:prefLabel "Paget"@eng-Latn .
+    skos:prefLabel "Paget"@eng-Latn ;
+    wdata:q7200235 "BM031" .
 
 <urn:mdciii:1603:16:60:2:41>
     a owl:Thing, skos:Concept ;
     rdfs:label "1603:16:60:2:41" ;
-    skos:prefLabel "Pembroke"@eng-Latn .
+    skos:prefLabel "Pembroke"@eng-Latn ;
+    wdata:q7200235 "BM041" .
 
 <urn:mdciii:1603:16:60:2:42>
     a owl:Thing, skos:Concept ;
     rdfs:label "1603:16:60:2:42" ;
-    skos:prefLabel "Hamilton Municipality"@eng-Latn .
+    skos:prefLabel "Hamilton Municipality"@eng-Latn ;
+    wdata:q7200235 "BM042" .
 
 <urn:mdciii:1603:16:60:2:51>
     a owl:Thing, skos:Concept ;
     rdfs:label "1603:16:60:2:51" ;
-    skos:prefLabel "Sandys"@eng-Latn .
+    skos:prefLabel "Sandys"@eng-Latn ;
+    wdata:q7200235 "BM051" .
 
 <urn:mdciii:1603:16:60:2:61>
     a owl:Thing, skos:Concept ;
     rdfs:label "1603:16:60:2:61" ;
-    skos:prefLabel "Smiths"@eng-Latn .
+    skos:prefLabel "Smiths"@eng-Latn ;
+    wdata:q7200235 "BM061" .
 
 <urn:mdciii:1603:16:60:2:71>
     a owl:Thing, skos:Concept ;
     rdfs:label "1603:16:60:2:71" ;
-    skos:prefLabel "Southampton"@eng-Latn .
+    skos:prefLabel "Southampton"@eng-Latn ;
+    wdata:q7200235 "BM071" .
 
 <urn:mdciii:1603:16:60:2:81>
     a owl:Thing, skos:Concept ;
     rdfs:label "1603:16:60:2:81" ;
-    skos:prefLabel "Saint George's"@eng-Latn .
+    skos:prefLabel "Saint George's"@eng-Latn ;
+    wdata:q7200235 "BM081" .
 
 <urn:mdciii:1603:16:60:2:82>
     a owl:Thing, skos:Concept ;
     rdfs:label "1603:16:60:2:82" ;
-    skos:prefLabel "Saint George municipality"@eng-Latn .
+    skos:prefLabel "Saint George municipality"@eng-Latn ;
+    wdata:q7200235 "BM082" .
 
 <urn:mdciii:1603:16:60:2:91>
     a owl:Thing, skos:Concept ;
     rdfs:label "1603:16:60:2:91" ;
-    skos:prefLabel "Warwick"@eng-Latn .
+    skos:prefLabel "Warwick"@eng-Latn ;
+    wdata:q7200235 "BM091" .
 
