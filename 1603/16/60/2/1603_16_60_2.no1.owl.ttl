@@ -24,7 +24,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     obo:BFO_0000124 <urn:mcdiii:1603:16:60:1:1> ;
     obo:BFO_0000171 <urn:mcdiii:1603:16:60:1:1> ;
     skos:prefLabel "Devonshire"@eng-Latn ;
-    wdata:q7200235 "BM011" ;
+    wdata:Q7200235 "BM011" ;
 .
 
 <urn:mdciii:1603:16()>
@@ -57,7 +57,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     obo:BFO_0000124 <urn:mcdiii:1603:16:60:1:2> ;
     obo:BFO_0000171 <urn:mcdiii:1603:16:60:1:2> ;
     skos:prefLabel "Hamilton"@eng-Latn ;
-    wdata:q7200235 "BM021" ;
+    wdata:Q7200235 "BM021" ;
 .
 
 <urn:mdciii:1603:16:60:2:31>
@@ -69,7 +69,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     obo:BFO_0000124 <urn:mcdiii:1603:16:60:1:3> ;
     obo:BFO_0000171 <urn:mcdiii:1603:16:60:1:3> ;
     skos:prefLabel "Paget"@eng-Latn ;
-    wdata:q7200235 "BM031" ;
+    wdata:Q7200235 "BM031" ;
 .
 
 <urn:mdciii:1603:16:60:2:41>
@@ -81,7 +81,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     obo:BFO_0000124 <urn:mcdiii:1603:16:60:1:4> ;
     obo:BFO_0000171 <urn:mcdiii:1603:16:60:1:4> ;
     skos:prefLabel "Pembroke"@eng-Latn ;
-    wdata:q7200235 "BM041" ;
+    wdata:Q7200235 "BM041" ;
 .
 
 <urn:mdciii:1603:16:60:2:42>
@@ -93,7 +93,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     obo:BFO_0000124 <urn:mcdiii:1603:16:60:1:4> ;
     obo:BFO_0000171 <urn:mcdiii:1603:16:60:1:4> ;
     skos:prefLabel "Hamilton Municipality"@eng-Latn ;
-    wdata:q7200235 "BM042" ;
+    wdata:Q7200235 "BM042" ;
 .
 
 <urn:mdciii:1603:16:60:2:51>
@@ -105,7 +105,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     obo:BFO_0000124 <urn:mcdiii:1603:16:60:1:5> ;
     obo:BFO_0000171 <urn:mcdiii:1603:16:60:1:5> ;
     skos:prefLabel "Sandys"@eng-Latn ;
-    wdata:q7200235 "BM051" ;
+    wdata:Q7200235 "BM051" ;
 .
 
 <urn:mdciii:1603:16:60:2:61>
@@ -117,7 +117,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     obo:BFO_0000124 <urn:mcdiii:1603:16:60:1:6> ;
     obo:BFO_0000171 <urn:mcdiii:1603:16:60:1:6> ;
     skos:prefLabel "Smiths"@eng-Latn ;
-    wdata:q7200235 "BM061" ;
+    wdata:Q7200235 "BM061" ;
 .
 
 <urn:mdciii:1603:16:60:2:71>
@@ -129,7 +129,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     obo:BFO_0000124 <urn:mcdiii:1603:16:60:1:7> ;
     obo:BFO_0000171 <urn:mcdiii:1603:16:60:1:7> ;
     skos:prefLabel "Southampton"@eng-Latn ;
-    wdata:q7200235 "BM071" ;
+    wdata:Q7200235 "BM071" ;
 .
 
 <urn:mdciii:1603:16:60:2:81>
@@ -141,7 +141,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     obo:BFO_0000124 <urn:mcdiii:1603:16:60:1:8> ;
     obo:BFO_0000171 <urn:mcdiii:1603:16:60:1:8> ;
     skos:prefLabel "Saint George's"@eng-Latn ;
-    wdata:q7200235 "BM081" ;
+    wdata:Q7200235 "BM081" ;
 .
 
 <urn:mdciii:1603:16:60:2:82>
@@ -153,7 +153,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     obo:BFO_0000124 <urn:mcdiii:1603:16:60:1:8> ;
     obo:BFO_0000171 <urn:mcdiii:1603:16:60:1:8> ;
     skos:prefLabel "Saint George municipality"@eng-Latn ;
-    wdata:q7200235 "BM082" ;
+    wdata:Q7200235 "BM082" ;
 .
 
 <urn:mdciii:1603:16:60:2:91>
@@ -165,6 +165,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     obo:BFO_0000124 <urn:mcdiii:1603:16:60:1:9> ;
     obo:BFO_0000171 <urn:mcdiii:1603:16:60:1:9> ;
     skos:prefLabel "Warwick"@eng-Latn ;
-    wdata:q7200235 "BM091" ;
+    wdata:Q7200235 "BM091" ;
 .
 

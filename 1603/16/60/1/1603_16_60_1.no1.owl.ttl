@@ -23,7 +23,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     rdfs:label "1603:16:60:1:1" ;
     obo:BFO_0000124 <urn:mcdiii:1603:16:60:0> ;
     skos:prefLabel "Devonshire"@eng-Latn ;
-    wdata:q7200235 "BM01" ;
+    wdata:Q7200235 "BM01" ;
 .
 
 <urn:mdciii:1603:16()>
@@ -53,7 +53,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     rdfs:label "1603:16:60:1:2" ;
     obo:BFO_0000124 <urn:mcdiii:1603:16:60:0> ;
     skos:prefLabel "Hamilton"@eng-Latn ;
-    wdata:q7200235 "BM02" ;
+    wdata:Q7200235 "BM02" ;
 .
 
 <urn:mdciii:1603:16:60:1:3>
@@ -64,7 +64,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     rdfs:label "1603:16:60:1:3" ;
     obo:BFO_0000124 <urn:mcdiii:1603:16:60:0> ;
     skos:prefLabel "Paget"@eng-Latn ;
-    wdata:q7200235 "BM03" ;
+    wdata:Q7200235 "BM03" ;
 .
 
 <urn:mdciii:1603:16:60:1:4>
@@ -75,7 +75,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     rdfs:label "1603:16:60:1:4" ;
     obo:BFO_0000124 <urn:mcdiii:1603:16:60:0> ;
     skos:prefLabel "Pembroke"@eng-Latn ;
-    wdata:q7200235 "BM04" ;
+    wdata:Q7200235 "BM04" ;
 .
 
 <urn:mdciii:1603:16:60:1:5>
@@ -86,7 +86,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     rdfs:label "1603:16:60:1:5" ;
     obo:BFO_0000124 <urn:mcdiii:1603:16:60:0> ;
     skos:prefLabel "Sandys"@eng-Latn ;
-    wdata:q7200235 "BM05" ;
+    wdata:Q7200235 "BM05" ;
 .
 
 <urn:mdciii:1603:16:60:1:6>
@@ -97,7 +97,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     rdfs:label "1603:16:60:1:6" ;
     obo:BFO_0000124 <urn:mcdiii:1603:16:60:0> ;
     skos:prefLabel "Smiths"@eng-Latn ;
-    wdata:q7200235 "BM06" ;
+    wdata:Q7200235 "BM06" ;
 .
 
 <urn:mdciii:1603:16:60:1:7>
@@ -108,7 +108,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     rdfs:label "1603:16:60:1:7" ;
     obo:BFO_0000124 <urn:mcdiii:1603:16:60:0> ;
     skos:prefLabel "Southampton"@eng-Latn ;
-    wdata:q7200235 "BM07" ;
+    wdata:Q7200235 "BM07" ;
 .
 
 <urn:mdciii:1603:16:60:1:8>
@@ -119,7 +119,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     rdfs:label "1603:16:60:1:8" ;
     obo:BFO_0000124 <urn:mcdiii:1603:16:60:0> ;
     skos:prefLabel "Saint George's"@eng-Latn ;
-    wdata:q7200235 "BM08" ;
+    wdata:Q7200235 "BM08" ;
 .
 
 <urn:mdciii:1603:16:60:1:9>
@@ -130,6 +130,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     rdfs:label "1603:16:60:1:9" ;
     obo:BFO_0000124 <urn:mcdiii:1603:16:60:0> ;
     skos:prefLabel "Warwick"@eng-Latn ;
-    wdata:q7200235 "BM09" ;
+    wdata:Q7200235 "BM09" ;
 .
 
